@@ -1,9 +1,9 @@
 #################
  #
  # This file is part of
- # ToBaCCo - Topologically Based Crystal Constructor
+ # ToBaCCo - Topologically-Based Crystal Constructor
  #
- # Copyright 2017 Yamil J. Colon <yamilcolon2015@u.northestern.edu>
+ # Copyright 2017 Yamil J. Colon <yamilcolon2015@u.northwestern.edu>
  #                Diego Gomez-Gualdron <dgomezgualdron@mines.edu>
  #                Ben Bucior <ben.bucior@gmail.com>
  #
